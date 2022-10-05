@@ -11,3 +11,5 @@ SR No   | Program | Author
 3 | Palindrome Number | [Saloni Sahay](https://github.com/SaloniSahay)
 4 | Pyramid Pattern | [Saloni Sahay](https://github.com/SaloniSahay)
 5 | Reverse String | [Saloni Sahay](https://github.com/SaloniSahay)
+6 | Prime Number | [Aman Jha](https://github.com/Cybaries)
+7 | Tower of Hanoi | [Aman Jha](https://github.com/Cybaries)
