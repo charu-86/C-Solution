@@ -12,3 +12,5 @@ SR No   | Program | Author
 4 | Pyramid Pattern | [Saloni Sahay](https://github.com/SaloniSahay)
 5 | Reverse String | [Saloni Sahay](https://github.com/SaloniSahay)
 6 | Sieve Algorithm | [Diwakar Kuamr](https://github.com/diwakar1593)
+7 | multiplication table| [Rohit kumar](https://github.com/ROHZZZ)
+
