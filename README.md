@@ -11,3 +11,5 @@ SR No   | Program | Author
 3 | Palindrome Number | [Saloni Sahay](https://github.com/SaloniSahay)
 4 | Pyramid Pattern | [Saloni Sahay](https://github.com/SaloniSahay)
 5 | Reverse String | [Saloni Sahay](https://github.com/SaloniSahay)
+6 | charecter counter in a string | [SAMIR897](https://github.com/SAMIR897)
+7 |
