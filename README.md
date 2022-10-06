@@ -18,3 +18,4 @@ SR No   | Program | Author
 10 | Tower of Hanoi | [Aman Jha](https://github.com/Cybaries)
 11 | Primes Within Range | [Ankit Ghosal](https://github.com/ankitbhoi)
 12 | ASCII Value of a Character | [Preeti Yadav](https://github.com/preeti-14-7)
+13 | Decimal to Binary Conversion | [Priyanshu Jha](https://github.com/maverickx03)
