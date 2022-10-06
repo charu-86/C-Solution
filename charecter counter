@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 
-#define str_size 100 //Declare the maximum size of the string
+#define str_size 1000
 
 void main()
 {
