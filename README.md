@@ -17,4 +17,4 @@ SR No   | Program | Author
 9 | Prime Number | [Aman Jha](https://github.com/Cybaries)
 10 | Tower of Hanoi | [Aman Jha](https://github.com/Cybaries)
 11 | Primes Within Range | [Ankit Ghosal](https://github.com/ankitbhoi)
-
+12 | ASCII Value of a Character | [Preeti Yadav](https://github.com/preeti-14-7)
