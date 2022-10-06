@@ -16,4 +16,5 @@ SR No   | Program | Author
 8 | charecter counter in a string | [SAMIR897](https://github.com/SAMIR897)
 9 | Prime Number | [Aman Jha](https://github.com/Cybaries)
 10 | Tower of Hanoi | [Aman Jha](https://github.com/Cybaries)
+11 | Primes Within Range | [Ankit Ghosal](https://github.com/ankitbhoi)
 
