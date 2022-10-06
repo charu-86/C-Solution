@@ -14,3 +14,6 @@ SR No   | Program | Author
 6 | Sieve Algorithm | [Diwakar Kuamr](https://github.com/diwakar1593)
 7 | multiplication table| [Rohit kumar](https://github.com/ROHZZZ)
 8 | charecter counter in a string | [SAMIR897](https://github.com/SAMIR897)
+9 | Prime Number | [Aman Jha](https://github.com/Cybaries)
+10 | Tower of Hanoi | [Aman Jha](https://github.com/Cybaries)
+
